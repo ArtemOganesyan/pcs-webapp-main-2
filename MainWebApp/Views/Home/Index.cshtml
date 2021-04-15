@@ -1,0 +1,34 @@
+﻿@model MainWebApp.Models.Endpoints;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table width="900px" border="1" cellpadding="25">
+    <tr>
+        <td height="400px" valign="top">
+            @ViewBag.MasterContent
+
+            @using (Html.BeginForm("UpdateEndpoints", "Home", FormMethod.Post, new { id = "Endpoints", name = "Endpoints" }))
+            {
+                @Html.Label("", "ForumEndpoint", new { @class = "font-normal" })
+                @Html.TextBoxFor(m => Model.ForumEndpoint, new { @class = "form-control", @id = "ForumEndpoint" })
+
+                @Html.Label("", "FeedbackEndpoint", new { @class = "font-normal" })
+                @Html.TextBoxFor(m => Model.FeedbackEndpoint, new { @class = "form-control", @id = "FeedbackEndpoint" })
+
+                <input type="submit" value="Update" name="Submit" id="UpdateEndpoints" class="btn btn-primary">
+            }
+            <br />
+            @ViewBag.SsmParameter
+        </td>
+        <td>
+            @ViewBag.ForumContent
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            @ViewBag.FeedbackContent
+        </td>
+    </tr>
+</table>

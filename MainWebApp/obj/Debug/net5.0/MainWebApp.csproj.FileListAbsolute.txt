@@ -1,0 +1,124 @@
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/appsettings.json
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/MainWebApp.exe
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/MainWebApp.deps.json
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/MainWebApp.runtimeconfig.json
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/MainWebApp.runtimeconfig.dev.json
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/MainWebApp.dll
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/ref/MainWebApp.dll
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/MainWebApp.pdb
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/MainWebApp.Views.dll
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/bin/Debug/net5.0/MainWebApp.Views.pdb
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.csprojAssemblyReference.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.AssemblyInfoInputs.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.AssemblyInfo.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.csproj.CoreCompileInputs.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorAssemblyInfo.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorAssemblyInfo.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/staticwebassets/MainWebApp.StaticWebAssets.Manifest.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/staticwebassets/MainWebApp.StaticWebAssets.xml
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/scopedcss/bundle/MainWebApp.styles.css
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.TagHelpers.input.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.TagHelpers.output.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorCoreGenerate.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorTargetAssemblyInfo.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorTargetAssemblyInfo.cs
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.Views.pdb
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.dll
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/ref/MainWebApp.dll
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.pdb
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.genruntimeconfig.cache
+C:/Users/Артем Оганесян/source/repos/portnov/MainWebApp/MainWebApp/obj/Debug/net5.0/MainWebApp.csproj.CopyComplete
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/appsettings.json
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.exe
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.deps.json
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.runtimeconfig.json
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.runtimeconfig.dev.json
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.dll
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/ref/MainWebApp.dll
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.pdb
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.Views.dll
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.Views.pdb
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.csprojAssemblyReference.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.AssemblyInfoInputs.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.AssemblyInfo.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.csproj.CoreCompileInputs.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorAssemblyInfo.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorAssemblyInfo.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/staticwebassets/MainWebApp.StaticWebAssets.Manifest.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/staticwebassets/MainWebApp.StaticWebAssets.xml
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/scopedcss/bundle/MainWebApp.styles.css
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.TagHelpers.input.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.TagHelpers.output.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorCoreGenerate.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorTargetAssemblyInfo.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorTargetAssemblyInfo.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.Views.pdb
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.dll
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/ref/MainWebApp.dll
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.pdb
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.genruntimeconfig.cache
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.csproj.CopyComplete
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Home/Forum.cshtml.g.cs
+C:/Users/Артем Оганесян/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Home/Feedback.cshtml.g.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/appsettings.Development.json
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/appsettings.json
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.deps.json
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.runtimeconfig.json
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.runtimeconfig.dev.json
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.dll
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/ref/MainWebApp.dll
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.pdb
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.Views.dll
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/MainWebApp.Views.pdb
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.AssemblyInfoInputs.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.AssemblyInfo.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.csproj.CoreCompileInputs.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorAssemblyInfo.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorAssemblyInfo.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/staticwebassets/MainWebApp.StaticWebAssets.Manifest.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/staticwebassets/MainWebApp.StaticWebAssets.xml
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/scopedcss/bundle/MainWebApp.styles.css
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.TagHelpers.input.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.TagHelpers.output.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorCoreGenerate.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Home/Feedback.cshtml.g.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Home/Forum.cshtml.g.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorTargetAssemblyInfo.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.RazorTargetAssemblyInfo.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.Views.pdb
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.dll
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/ref/MainWebApp.dll
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.pdb
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.genruntimeconfig.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.csproj.CopyComplete
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/AWSSDK.Core.dll
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/AWSSDK.Extensions.NETCore.Setup.dll
+/Users/mons/github/pcs-webapp-main/MainWebApp/bin/Debug/net5.0/AWSSDK.SimpleSystemsManagement.dll
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/net5.0/MainWebApp.csprojAssemblyReference.cache

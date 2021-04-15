@@ -1,0 +1,4 @@
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/netcoreapp2.1/MainWebApp.csprojAssemblyReference.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/netcoreapp2.1/MainWebApp.AssemblyInfoInputs.cache
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/netcoreapp2.1/MainWebApp.AssemblyInfo.cs
+/Users/mons/github/pcs-webapp-main/MainWebApp/obj/Debug/netcoreapp2.1/MainWebApp.csproj.CoreCompileInputs.cache

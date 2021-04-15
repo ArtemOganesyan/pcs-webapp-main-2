@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{779C0F5D-F49D-4A4D-A912-4ADAE81FAC1C}|Default">
+  <MonoDevelop.Ide.ItemProperties.MainWebApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWebApp/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="MainWebApp/Views/Shared/_Layout.cshtml" Line="37" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MainWebApp" expanded="True">
+            <Node name="MainWebApp" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
