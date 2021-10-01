@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{779C0F5D-F49D-4A4D-A912-4ADAE81FAC1C}|Default">
   <MonoDevelop.Ide.ItemProperties.MainWebApp PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MainWebApp/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainWebApp/Views/Home/Forum.cshtml">
     <Files>
       <File FileName="MainWebApp/Views/Shared/_Layout.cshtml" Line="37" Column="43" />
+      <File FileName="MainWebApp/Views/Home/Forum.cshtml" Line="5" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,9 +11,10 @@
           <Node name="MainWebApp" expanded="True">
             <Node name="MainWebApp" expanded="True">
               <Node name="Views" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Forum.cshtml" selected="True" />
                 </Node>
+                <Node name="Shared" expanded="True" />
               </Node>
             </Node>
           </Node>

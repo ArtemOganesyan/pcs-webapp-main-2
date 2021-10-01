@@ -308,21 +308,17 @@
     ]
   },
   "packageFolders": {
-    "/Users/mons/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/mons/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mons/github/pcs-webapp-main-2/MainWebApp/MainWebApp.csproj",
+      "projectUniqueName": "/Users/mons/Development/NetCore/pcs-webapp-main-2/MainWebApp/MainWebApp.csproj",
       "projectName": "MainWebApp",
-      "projectPath": "/Users/mons/github/pcs-webapp-main-2/MainWebApp/MainWebApp.csproj",
+      "projectPath": "/Users/mons/Development/NetCore/pcs-webapp-main-2/MainWebApp/MainWebApp.csproj",
       "packagesPath": "/Users/mons/.nuget/packages/",
-      "outputPath": "/Users/mons/github/pcs-webapp-main-2/MainWebApp/obj/",
+      "outputPath": "/Users/mons/Development/NetCore/pcs-webapp-main-2/MainWebApp/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "/Users/mons/.config/NuGet/NuGet.Config"
       ],
@@ -383,7 +379,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

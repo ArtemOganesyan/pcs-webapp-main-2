@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2VqG49JZ/6ZUG+6rLHlysyESYiqP06TWMdkQoyfAJa5hGxtvyyJ19zqHzJLA7kS/mg1aLHWgleyJY21n39RN+A==",
+  "dgSpecHash": "MNmfOvCfyIkaww+cpSvAvL7/tlULNbwfuaYfZ4Ipk4AsopBIWz3McSTlEnWxDp+ZLsthXtHVE6WeKzk7QuZFKA==",
   "success": true,
-  "projectFilePath": "/Users/mons/github/pcs-webapp-main-2/MainWebApp/MainWebApp.csproj",
+  "projectFilePath": "/Users/mons/Development/NetCore/pcs-webapp-main-2/MainWebApp/MainWebApp.csproj",
   "expectedPackageFiles": [
     "/Users/mons/.nuget/packages/awssdk.core/3.7.0.12/awssdk.core.3.7.0.12.nupkg.sha512",
     "/Users/mons/.nuget/packages/awssdk.extensions.netcore.setup/3.7.0.1/awssdk.extensions.netcore.setup.3.7.0.1.nupkg.sha512",
